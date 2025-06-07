@@ -2,7 +2,7 @@
   "name": "crypto-cli",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "cli.ts",
   "bin": {
     "crypto-cli": "./dist/src/cli.js"
   },
