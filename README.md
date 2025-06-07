@@ -9,7 +9,7 @@ I've recently grown intested in crypto and have started trading. I thought it'd 
 
 # Development Environment
 
-Of course, the main tool was Node.js and Typescript. However, instead of useing npm as my package manager, I used pnpm to save space and boost efficiency.
+Of course, the main tool was Node.js and Typescript. However, instead of using npm as my package manager, I used pnpm to save space and boost efficiency.
 I also used CoinGecko's API to fetch the data on the specified cryptocurrency. Along with that I used Vitest, Vite's native testing framework. I used it to make mock API responses and to spy on console logging and errors. This enabled me to efficiently and effectively test the business logic of my program.
 
 As mentioned, I used Typescript. However, I was able to enhance my project by using the Commander and Axios libraries. Commander simplifies command-line arguement parsing. Axios brings more powerful and simple HTTP procedures, whiched helped with testing.
